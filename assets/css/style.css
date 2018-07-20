@@ -1,0 +1,41 @@
+.query-textbox-style{
+    width: 400px;
+}
+.textarea-test{
+	width: 500px;
+	height: 100px;
+}
+.single-result{
+	background-color: lightgreen;
+}
+.logic-result{
+	background-color: pink;
+}
+.keyword-input{
+	width: 400px;
+}
+.keyword-input-label{
+	font-size: 16px;
+}
+.label-form{
+	font-size: 14px;
+	font-weight: bold;
+}
+.query-result{
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+}
+.textmining-result{
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+}
+.textmining-text{
+	text-align: justify;
+	font-size: 15px;
+	font-weight: bold;	
+}
+.textmining-table{
+	border:1px solid #000;
+}
