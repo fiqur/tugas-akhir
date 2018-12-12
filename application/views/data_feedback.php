@@ -26,7 +26,6 @@
 
 <!-- Main content -->
 <section class="content">
-	
 	<div class="row" style="margin-left: 10px; margin-right: 10px;" >
 	<div class="panel-body">
 	  <table id="table_new" width="100%">
@@ -54,6 +53,5 @@
 	  </table>
 	  </div>
 	</div>
-	
 </section><!-- /.content -->
 
