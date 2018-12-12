@@ -37,10 +37,7 @@ $(document).ready(function(){
 			});
 			count++;
 		}
-		
 	});
-	
-
 });
 
 </script>
